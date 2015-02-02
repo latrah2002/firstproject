@@ -912,7 +912,8 @@ Stainless Icon from IconLeak(http://iconleak.com/works/free-app-icons/), under F
 }
 	.featured-title {
 		font-size: 60px;
-		color: #ffffff;
+		/*color: #ffffff;*/
+		color: #130873;
 		letter-spacing: -1px;
 		line-height: 1;
 		margin: 0;
