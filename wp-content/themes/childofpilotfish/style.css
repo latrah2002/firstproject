@@ -1,0 +1,20 @@
+/*
+Theme Name: Child of Pilot Fish
+Description: Cool child theme base on proposed digital project
+Author: Lateef Rahaman
+Version: 0.0.1
+
+Template: pilot-fish
+
+*/
+
+@import url('../pilot-fish/style.css');
+	body {
+		color: #41434A; 
+		/*font-family: "Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+		font-size:  14px;
+		line-height:1.5em;
+		text-rendering:optimizeLegibility;
+		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+		-webkit-text-size-adjust: 100%;
+ }
