@@ -19,7 +19,7 @@ get_header(); ?>
             	<p><?php echo __('I can edit this as child theme home.php in the Edit Panel. Happy Blogging! ','pilotfish'); ?></p>
         </div><!-- end of #featured -->
              
-	<div class="center"><h2><?php _e('Featured Widgets Area','pilotfish')?></h2></div>
+	<div class="center"><h2><?php _e('TRADITIONAL AFRICAN LANGUAGES','pilotfish')?></h2></div>
 	<hr>
 	
 <?php get_sidebar('home'); ?>
