@@ -8,13 +8,27 @@ Template: pilot-fish
 
 */
 
-@import url('../pilot-fish/style.css');
+
+@import url("../pilot-fish/style.css");
+
+body{
+#ccc
+}
+
 	body {
 		color: #41434A; 
-		/*font-family: "Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+		font-family: "Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 		font-size:  14px;
 		line-height:1.5em;
 		text-rendering:optimizeLegibility;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
+ 
+ #wrapper {
+		background-color:#41434A;
+		clear:both;
+		margin: 20px auto;
+		padding: 0 20px 20px 20px;
+		position:relative;
+}
